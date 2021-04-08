@@ -20,4 +20,4 @@ Chip contents:
 https://github.com/PetarZecimir/BMW-E39-Radio-Fix/blob/master/BMW_Radio_24_C_16.bin
 
 Chip location on board:
-![alt text](https://github.com/PetarZecimir/BMW-E39-Radio-Fix/blob/master/24C16_location.jpg)
+![alt text](https://github.com/avarenina/BMW-E39-Radio-Fix/blob/master/24C16_location.jpg)
