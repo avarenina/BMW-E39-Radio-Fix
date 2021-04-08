@@ -17,7 +17,7 @@ Instructions:
 Note: To read and write EEPROMs I have used EEPROM programmer CH341A. I bought one on ebay for about 3$. If you need tutorial and drivers just google "CH341A" and you will find a lot of info on it.
 
 Chip contents:
-https://github.com/PetarZecimir/BMW-E39-Radio-Fix/blob/master/BMW_Radio_24_C_16.bin
+https://github.com/avarenina/BMW-E39-Radio-Fix/blob/master/BMW_Radio_24_C_16.bin
 
 Chip location on board:
 ![alt text](https://github.com/avarenina/BMW-E39-Radio-Fix/blob/master/24C16_location.jpg)
